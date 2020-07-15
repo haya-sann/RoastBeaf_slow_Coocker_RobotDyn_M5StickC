@@ -34,7 +34,7 @@ M5StickCで**57℃の一定の温度**を作り出し、**柔らかくうま味�
 変更したい場合は左のスライダーか、「設定温度パネル」の中にある＋ーボタンで任意に変更  
 異常動作などの場合は「緊急停止-ストップ」  
 電源オフは最下部のスライダーを右いっぱいに引く  
-<img width="800" alt="Control Panel" src="img/ble_control.png">
+<img width="400" alt="Control Panel" src="img/ble_control.png">
 
 ## License
 ----------
