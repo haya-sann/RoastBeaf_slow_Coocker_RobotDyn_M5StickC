@@ -10,10 +10,12 @@ M5StickCで**57℃の一定の温度**を作り出し、**柔らかくうま味�
 -------
 ![主要部品](img/使用部品.png)主要部品
 
-①M5StickC  
-③温度センサー：DS18B20  
-②AC電力コントローラー：RobotDyne Zero-Cross Ditect PWM AC Power Controller  
-④カップヒーター  
+1.M5StickC  
+2.AC電力コントローラー：RobotDyne Zero-Cross Ditect PWM AC Power Controller  
+ *Zero-Cross_Detect_AC Light Dimmer Module for PWM control：$3.49  
+ *https://robotdyn.com/ac-light-dimmer-module-1-channel-3-3v-5v-logic-ac-50-60hz-220v-110v.html  
+3.温度センサー：DS18B20  
+4.カップヒーター  
 ・攪拌用水中ポンプ  
 ・AC100V-5V電源  
 
