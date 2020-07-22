@@ -1,5 +1,15 @@
 //M5StickCを使った低温調理器！
 //Detect Temperature with DS18820 to control RoboDyne ZeroCross PWM Controller 
+/*
+この本体プログラムと同じ階層に
+blynkToken.h
+というファイルを作り、以下のように記述して下さい。
+//// You should get Auth Token in the Blynk App.
+//// Go to the Project Settings (nut icon).
+//// This is a secret key for BLYNK
+char auth[]="Your Blink Auth Token"; //Auth Token:低温調理器用
+*/
+
 #define BLYNK_PRINT Serial
 
 #define BLYNK_USE_DIRECT_CONNECT
